@@ -3,7 +3,7 @@ Official code of  OT-Cleaner presented at ICASSP 2022.
 
 # Model Training
 ```
-python train.py --dataset cifar10
+python train.py --dataset cifar10 --noise_rate 0.2 --noise_type symmetric
 ```
 ## Citation
 ```
